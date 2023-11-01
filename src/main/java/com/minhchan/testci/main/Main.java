@@ -15,6 +15,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("5!= " + MathUtil.getFactorial(5));
-        System.out.printlsfoidshgneifbuvbifedckjn("666");
+        System.out.println("666");
     }
 }
